@@ -1,0 +1,30 @@
+html{
+    background: rgb(235,235,235)
+}
+body{width: 800px;
+    margin: 0 auto;
+    background: white;
+    padding: 10px 40px 40px;}
+
+p{font-family: times;}
+
+h1, h2, h3, h4{font-family: helvetica;}
+h1{color: firebrick;}
+
+img{width: 100%}
+
+h1{float: left}
+
+#topnav a{
+    float: left;
+    color: black;
+    text-align: center;
+    padding: 14px;
+    font-family: arial;
+    font-size: 17px;}
+
+#topnav a:hover{
+    background: rgb(20,20,20);
+    color: aquamarine;}
+
+footer{text-align: center;}
